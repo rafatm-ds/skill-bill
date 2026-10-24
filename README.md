@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Skill Bill: a katana slicing through code brackets. Slash the malicious. Keep the skills." width="100%">
+</p>
+
 # Skill Bill
 
-**Every skill pays the bill before it gets in.**
+**Slash the malicious. Keep the skills.**
 
 Skill Bill vets AI agent skills, Claude Code plugins, MCP servers, slash commands and agent repos *before* you install them. Hand your agent a link and ask "is this safe?". It downloads the package into memory, runs 87 static checks without executing anything, then reads the files that matter and gives you a threat level with the evidence behind it.
 

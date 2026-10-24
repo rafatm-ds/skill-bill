@@ -5,7 +5,7 @@ description: Security-scan an AI agent skill, plugin, MCP server, slash command 
 
 # Skill Bill
 
-*Every skill pays the bill before it gets in.*
+*Slash the malicious. Keep the skills.*
 
 Two layers, like SkillSpector: a deterministic static scan (`scripts/scan.py`), then my own semantic review that confirms or dismisses each finding and checks that what the package does matches what it claims. The scanner is a triage tool. The verdict is mine, after reading the files.
 
