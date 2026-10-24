@@ -1,0 +1,15 @@
+{
+  "name": "skill-bill",
+  "owner": {
+    "name": "Rafat Mohammed",
+    "email": "rafat.mohammed.ds@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "skill-bill",
+      "source": "./",
+      "description": "Security-scan AI agent skills, plugins and MCP servers before you install them.",
+      "version": "1.0.0"
+    }
+  ]
+}

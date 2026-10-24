@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+report*.json
+report*.md
+scan-*.json
+fixture-evil/
+.DS_Store

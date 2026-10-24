@@ -1,0 +1,21 @@
+{
+  "name": "skill-bill",
+  "version": "1.0.0",
+  "description": "Security-scan AI agent skills, plugins and MCP servers before you install them. Static scan plus LLM review, threat-level verdict.",
+  "author": {
+    "name": "Rafat Mohammed",
+    "email": "rafat.mohammed.ds@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "scanner",
+    "skills",
+    "plugins",
+    "mcp",
+    "prompt-injection",
+    "supply-chain"
+  ],
+  "homepage": "https://github.com/rafatm-ds/skill-bill",
+  "repository": "https://github.com/rafatm-ds/skill-bill"
+}
